@@ -1,5 +1,11 @@
 # WeatherApp
 
+![weather app1](https://github.com/NiharShah7/Weather-App/assets/141811336/2fa5f552-c9e1-4c69-b812-451c7677fe5f)
+
+![weather app mumbai](https://github.com/NiharShah7/Weather-App/assets/141811336/6e85ac88-358a-492a-8316-f7cf30202daa)
+
+![weather app](https://github.com/NiharShah7/Weather-App/assets/141811336/884c9e61-aff3-4339-b345-0287bbf97bb5)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
 ## Development server
